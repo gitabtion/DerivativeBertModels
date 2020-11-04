@@ -4,3 +4,4 @@
 @Author :   Abtion
 @Email  :   abtion{at}outlook.com
 """
+from .dc_bert import DcBert

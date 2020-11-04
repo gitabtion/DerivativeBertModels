@@ -11,3 +11,4 @@ DEVICE = torch.device('cuda') if torch.cuda.is_available() else torch.device('cp
 
 class PreTrainedModel:
     ELECTRA_SMALL_CHINESE = 'hfl/chinese-electra-small-discriminator'
+    BERT_BASE_CHINESE = 'bert-base-chinese'
