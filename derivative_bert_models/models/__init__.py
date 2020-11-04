@@ -5,3 +5,4 @@
 @Email  :   abtion{at}outlook.com
 """
 from .dc_bert import DcBert
+from .sentence_bert import SentenceBert

@@ -5,7 +5,7 @@
 
 ## 文本匹配
 - [x] [DC-BERT: Decoupling Question and Document for Efficient Contextual Encoding](https://arxiv.org/abs/2002.12591)
-- [ ] [Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks](https://arxiv.org/abs/1908.10084)
+- [x] [Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks](https://arxiv.org/abs/1908.10084)
 
 ## 文本摘要
 - [ ] [BertSum: Fine-tune BERT for Extractive Summarization](https://arxiv.org/abs/1903.10318)
