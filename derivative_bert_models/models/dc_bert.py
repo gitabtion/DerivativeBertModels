@@ -46,5 +46,5 @@ class DcBert(nn.Module):
         x = torch.cat([x[:, 0, :], x[:, d_cls_id, :]], dim=-1)
 
         # using dense to compute score.
-        out = self.dense(x).squeeze()
+        out = self.dense(x)
         return out

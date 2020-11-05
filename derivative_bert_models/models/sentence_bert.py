@@ -30,5 +30,5 @@ class SentenceBert(nn.Module):
         x = torch.cat([u, v, torch.abs(u - v)], dim=-1)
 
         # using dense to compute score.
-        out = self.dense(x).squeeze()
+        out = self.dense(x)
         return out

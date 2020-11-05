@@ -12,6 +12,6 @@ See tests for how to use.
 ## text summarize
 - [ ] [BertSum: Fine-tune BERT for Extractive Summarization](https://arxiv.org/abs/1903.10318)
 
-## Dialog System
+## Dialogue System
 
 - [ ] [BERT for Joint Intent Classification and Slot Filling](https://arxiv.org/abs/1902.10909)
